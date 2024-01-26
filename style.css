@@ -279,7 +279,7 @@ section .main .button:hover i {
 
 .products .Box .card .Product_text .products_stars {
   color: orange;
-  margin-bottom: 19px;
+  margin-bottom: 10px;
   cursor: pointer;
 }
 
